@@ -1,7 +1,7 @@
 # RDR2 No Bone Limit
 This mod is the predecessor to realrspect's version of the mod found [here](https://github.com/realrspect/RDR2-No-Bone-Limit). Realrspect's version should now be used from now on as it fixes other issues related to increased bone counts.
 
-This mod is a mod I distrubuted in mid 2025 on Discord. 
+This mod is one I distrubuted in mid 2025 on Discord. 
 
 ## Source Code Publishing and Why I am Mostly Leaving
 This is a part of a release of the source codes of multiple mods that I had made over the past few years. 
