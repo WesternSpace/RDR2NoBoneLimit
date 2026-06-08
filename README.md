@@ -7,7 +7,7 @@ This mod is a mod I distrubuted in mid 2025 on Discord.
 This is a part of a release of the source codes of multiple mods that I had made over the past few years. 
 Since I am currently in my college years and planning on moving within the next two years, it is likely in everyone's interest for me to release the source code, as I will not be maintaining these mods in the foreseeable future. 
 
-Due to events that happened in the RDR2 modding community between 2024 and late 2025. I had became unconfortable being in the RDR2 modding community, mainly due to drama occurring in RDR2 modding Discord servers. 
+Due to events that happened in the RDR2 modding community between 2024 and late 2025. I had became uncomfortable  being in the RDR2 modding community, mainly due to drama occurring in RDR2 modding Discord servers. 
 While I have met some people who were great, I did not want to get caught up in any more drama that would be distracting me from my studies and my life. 
 
 Beginning in late 2025, I started distancing myself from the RDR2 modding community. 
